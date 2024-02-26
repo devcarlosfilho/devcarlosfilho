@@ -9,12 +9,15 @@ Sou estudante de programação, faço parte do DevClub e atualmente estou estuda
 **Próximo objetivo:**
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-
+<br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devcarlosfilho)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Carlos Alberto stats](https://github-readme-stats.vercel.app/api?username=devcarlosfilho)](https://github.com/anuraghazra/github-readme-stats)
 
 
-
+**Contate-me**
+<br>
+<a href = "mailto:devcarlosfilho@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+<a href="https://www.instagram.com/carlosalbertofilho" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
